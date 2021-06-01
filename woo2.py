@@ -76,7 +76,7 @@ def dochat():##chatbot starts to do its job =)##
                             {
                                 "inputs": {
                                     "question": strangerText.text,
-                                    "context": "我19歲。我是女大學生。住在台北。平常都在滑wootalk。喜歡>//<。",
+                                    "context": "我19歲。我是女大學生。住在台北。平常都在滑wootalk。喜歡打羽球>//<。",
                                 }
                             }
                         )
