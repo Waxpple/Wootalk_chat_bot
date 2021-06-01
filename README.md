@@ -9,6 +9,4 @@
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 3. Put it in your work directary and change the code in the path.
 4. Launch the woo2.py
-`
-python ./woo2.py
-`
+`python ./woo2.py`
